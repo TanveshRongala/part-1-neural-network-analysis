@@ -1,9 +1,0 @@
-   Experiment  Neurons Activation  Learning Rate  Epochs  Batch Size  \
-0           1       32       relu         0.0010      30          32   
-1           2       64       relu         0.0005      40          16   
-2           3      128       tanh         0.0010      50          32   
-
-   Test Accuracy  
-0         0.9775  
-1         0.9800  
-2         0.9750  
