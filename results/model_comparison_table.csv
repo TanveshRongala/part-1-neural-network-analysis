@@ -1,0 +1,4 @@
+Experiment,Neurons,Activation,Learning Rate,Epochs,Batch Size,Test Accuracy
+1,32,relu,0.001,30,32,0.9800000190734863
+2,64,relu,0.0005,40,16,0.9775000214576721
+3,128,tanh,0.001,50,32,0.9750000238418579
